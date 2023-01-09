@@ -6,7 +6,7 @@
 >
 > ✏ Atualmente estou aprendendo React e Redux através [deste curso](https://www.udemy.com/course/react-redux-pt/) na plataforma Udemy.
 >
->📄 Baixe meu currículo [aqui](https://drive.google.com/uc?export=download&id=1Ao9isedjojB-E2DWdWsO2iF52bkF0ZZn)
+>📄 Baixe meu currículo [aqui](https://drive.google.com/uc?export=download&id=1-qY7YmzBodYDFKqoNk8ebCq_L9PLGIn-)
 <!--
 >
 >🌎 Acesse [meu site]() para ver um pouco mais sobre mim.
