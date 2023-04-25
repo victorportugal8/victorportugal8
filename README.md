@@ -6,7 +6,6 @@
 >
 > ✏ Atualmente estou aprendendo React e Redux através [deste curso](https://www.udemy.com/course/react-redux-pt/) na plataforma Udemy.
 >
->📄 Baixe meu currículo [aqui](https://drive.google.com/uc?export=download&id=1-qY7YmzBodYDFKqoNk8ebCq_L9PLGIn-)
 <!--
 >
 >🌎 Acesse [meu site]() para ver um pouco mais sobre mim.
@@ -32,7 +31,6 @@
 
 <div>
 	<a href="mailto:contato@seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a href="https://api.whatsapp.com/send/?phone=5524988763168&text=Oi+Victor%21&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 	<a href="https://www.linkedin.com/in/victorportugal8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="https://twitter.com/victorportugal_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 	<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>   
