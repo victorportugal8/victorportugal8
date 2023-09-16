@@ -2,7 +2,9 @@
 
 ### 🚀 Sobre mim
 
->📚 Sou estudante de Ciências da Computação.
+>📚 Estudante de Ciências da Computação.
+>
+>📃 Busco uma oportunidade de estágio na área de <strong>Tecnologia da Informação</strong> para que eu possa ajudar no crescimento e desenvolvimento da empresa colocando em prática o que aprendi durante a minha formação acadêmica e cursos complementares e desenvolver minhas habilidades e capacidades profissionais e pessoais.
 >
 >✏ Atualmente estou aprendendo React através [deste curso](https://www.udemy.com/course/react-redux-pt/) na plataforma Udemy.
 >
