@@ -2,10 +2,12 @@
 
 ### 🚀 Sobre mim
 
->📚 Estudante de Ciências da Computação.
+>👨🏾‍🎓 Graduado em Ciências da Computação.
 >
 <!--
->📃 Busco uma oportunidade de estágio na área de <strong>Tecnologia da Informação</strong> para que eu possa ajudar no crescimento e desenvolvimento da empresa colocando em prática o que aprendi durante a minha formação acadêmica e cursos complementares e desenvolver minhas habilidades e capacidades profissionais e pessoais.
+>📚 Pós-graduando em Engenharia de Software
+>
+>📃 Desenvolvedor Web Front-End com conhecimentos em <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong> em busca de uma oportunidade na área de <strong>Tecnologia da Informação</strong> para que eu possa ajudar no crescimento e desenvolvimento da empresa colocando em prática o que aprendi durante a minha formação ao mesmo tempo em que desenvolvo minhas habilidades e capacidades profissionais e pessoais.
 -->
 >
 >✏ Atualmente estou aprendendo React através [deste curso](https://www.udemy.com/course/react-redux-pt/) na plataforma Udemy.
@@ -36,8 +38,8 @@
 <div>
 	<a href="mailto:victorportugalnobrega@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a href="https://www.linkedin.com/in/victorportugal8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="https://wa.me/5524988763168" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-	<!--<a href="https://twitter.com/victorportugal_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+	<!--<a href="https://wa.me/5524981476954" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+	<a href="https://twitter.com/victorportugal_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 	<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>-->
 </div>
 
@@ -45,8 +47,8 @@
 
 <div>
 	<a href="https://github.com/victorportugal8">
-	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorportugal8&layout=compact&langs_count=6&theme=dark"/>
-	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorportugal8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorportugal8&layout=compact&langs_count=6&theme=dark"/>
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorportugal8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/victorportugal8/victorportugal8/blob/output/github-contribution-grid-snake.svg)
