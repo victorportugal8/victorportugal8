@@ -3,11 +3,11 @@
 ### 🚀 Sobre mim
 >📃 Desenvolvedor Web Front-End com conhecimentos em <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong> em busca de uma oportunidade na área de <strong>Tecnologia da Informação</strong>.
 >
->📚 Pós-graduando em Engenharia de Software.
+>📚 Pós-graduando em <strong>Engenharia de Software</strong>.
 >
->👨🏾‍🎓 Bacharel em Ciências da Computação.
+>👨🏾‍🎓 Bacharel em <strong>Ciências da Computação</strong>.
 >
->✏ Atualmente estou aprendendo React através [deste curso](https://www.udemy.com/course/react-redux-pt/) na plataforma Udemy.
+>✏ Atualmente estou aprendendo <strong>React</strong> através [deste curso](https://www.udemy.com/course/react-redux-pt/) na plataforma Udemy.
 >
 <!--
 ### 🖥 Alguns projetos
