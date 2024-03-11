@@ -1,14 +1,11 @@
 ## 👋 Olá, eu sou o Victor Portugal. Seja bem-vindo ao meu perfil!
 
 ### 🚀 Sobre mim
-
->👨🏾‍🎓 Graduado em Ciências da Computação.
->
-<!--
->📚 Pós-graduando em Engenharia de Software
->
 >📃 Desenvolvedor Web Front-End com conhecimentos em <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong> em busca de uma oportunidade na área de <strong>Tecnologia da Informação</strong>.
--->
+>
+>📚 Pós-graduando em Engenharia de Software.
+>
+>👨🏾‍🎓 Bacharel em Ciências da Computação.
 >
 >✏ Atualmente estou aprendendo React através [deste curso](https://www.udemy.com/course/react-redux-pt/) na plataforma Udemy.
 >
