@@ -3,7 +3,9 @@
 ### 🚀 Sobre mim
 >📃 Desenvolvedor Web Front-End com conhecimentos em <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong> em busca de uma oportunidade na área de <strong>Tecnologia da Informação</strong>.
 >
->📚 Pós-graduado em <strong>Engenharia de Software</strong>.
+>📚 <strong>Pós-graduando</strong> em <strong>Análise de Dados</strong> e <strong>Inteligência Artificial</strong>.
+>
+>📚 <strong>Pós-graduado</strong> em <strong>Engenharia de Software</strong>.
 >
 >👨🏾‍🎓 Bacharel em <strong>Ciências da Computação</strong>.
 >
