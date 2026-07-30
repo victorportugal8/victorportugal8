@@ -7,7 +7,7 @@
 >
 >📚 <strong>Pós-graduado</strong> em <strong>Engenharia de Software</strong>.
 >
->👨🏾‍🎓 Bacharel em <strong>Ciências da Computação</strong>.
+>👨🏾‍🎓 <strong>Bacharel</strong> em <strong>Ciências da Computação</strong>.
 >
 <!--
 >✏ Atualmente estou aprendendo <strong>React</strong> através [deste curso](https://www.udemy.com/course/react-redux-pt/) na plataforma Udemy.
